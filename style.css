@@ -1,0 +1,28 @@
+body{
+    background-color: white(255, 255, 255);
+}
+#img{
+    width:350px ;
+}
+#header{
+    margin-left:30% ;
+    margin-right:130px ;
+    color: rgb(0, 0, 0);
+}
+#line{
+    background-color: black;
+    margin:20px ;
+}
+#bgline{
+    background-color: gray;
+}
+#quad1{
+    margin-left:0% ;
+    margin-right:82% ;
+    background-color: black;
+}
+#quad2{
+    margin-left:0% ;
+    margin-right:70% ;
+    background-color: black;
+}
